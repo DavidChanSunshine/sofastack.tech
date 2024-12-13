@@ -1,4 +1,4 @@
-FROM alpine:3.9
+FROM alpine:3.21.0
 
 MAINTAINER Jimmy Song <rootsongjc@gmail.com>
 
